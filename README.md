@@ -24,6 +24,8 @@ Insight Synthesis: Leverage extracted insights to construct a coherent narrative
 
 
 
+![](./Road_Accident.jpg)
+
 Key Insights:
 
 Total Casualties: A total of 418,000 casualties were recorded.
