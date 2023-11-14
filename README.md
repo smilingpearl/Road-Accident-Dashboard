@@ -22,6 +22,8 @@ Dashboard Creation: Orchestrate a cohesive dashboard layout within Power BI, eff
 
 Insight Synthesis: Leverage extracted insights to construct a coherent narrative, elucidating pertinent trends, patterns, and consequential findings derived from the analysis.
 
+
+
 Key Insights:
 
 Total Casualties: A total of 418,000 casualties were recorded.
